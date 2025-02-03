@@ -1,0 +1,35 @@
+
+#Home ,#About, #Skill, #Project #Education, #Contact{
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+#main-icon{
+    margin: 0 0 50px 150px;
+}
+.nav-item li{
+    position: fixed;
+}
+/*nonaktifkan XXL Breakpoint*/
+@media(min-width: 1200px){
+    .container{
+        max-width: 1140px;
+    }
+}
+.class-form{
+    padding-right: 50px;
+}
+#main-footer{
+    margin: 0;
+}
+#main-contact{
+
+   margin: 15px 0 20px 0;
+   padding: 15px 0 20px 50px;
+} 
+#kontak form label{
+    margin-right: 80px;
+}
+#img{
+    width: 200px;
+    height: 200px;
+}
